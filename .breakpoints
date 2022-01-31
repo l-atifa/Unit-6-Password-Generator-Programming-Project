@@ -1,11 +1,31 @@
 {
   "files": {
+    "Lowerpw.txt": [
+      {
+        "id": "2d8927de-9c83-4d7b-ab29-e9987ec42209",
+        "line": 1,
+        "version": 2,
+        "index": 0
+      }
+    ],
     "Main.java": [
       {
+        "id": "e05bb138-a852-452a-805c-49115fbacd06",
+        "line": 63,
+        "version": 3487,
+        "index": 2191
+      },
+      {
+        "id": "c17a831d-b395-490c-b9fa-25daddb1b4f1",
+        "line": 167,
+        "version": 3487,
+        "index": 4885
+      },
+      {
         "id": "5779baa3-fddb-45ae-b1b0-268b730db228",
-        "line": 31,
-        "version": 177,
-        "index": 315
+        "line": 222,
+        "version": 3487,
+        "index": 6241
       }
     ]
   }
